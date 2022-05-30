@@ -1,0 +1,152 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.soat {
+  height: 100vh;
+  background-image: url("img/Rectangle 58.png");
+  padding: 50px 100px;
+}
+.soat__contaner {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 100%;
+  color: #0080ff;
+}
+.soat__item {
+  margin: 0 35px;
+  list-style: none;
+}
+.soat__item a {
+  text-decoration: none;
+  padding: 15px 30px;
+  background-color: #d2ff00;
+  border-radius: 15px;
+  color: #0080ff;
+}
+.soat__contaner-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.soat__box {
+  width: 50%;
+  margin-top: 60px;
+}
+.soat__xop {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.soat h1 {
+  font-size: 50px;
+}
+.soat a {
+  padding: 15px 30px;
+  background-color: rgba(255, 255, 255, 0.45);
+  border-radius: 15px;
+  text-decoration: none;
+}
+.soat__box {
+  width: 100%;
+}
+
+.soat-2 {
+  height: 100vh;
+}
+.soat-2__contair {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.soat-2__contair > div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 10px;
+}
+.soat-2__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.soat-2__contaner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.soat-3 {
+  height: 100vh;
+  margin-top: 29px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.soat-3 h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.title__contaner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.soat_4 {
+  height: 80vh;
+}
+.soat_4-contaner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+}
+.soat_4-item {
+  width: 581px;
+  height: 390px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url("../ustoz/img/apple-watch-4-640x387-removebg-preview 1.png");
+  background-color: rgba(0, 0, 0, 0.51);
+}
+.soat_4-es {
+  width: 50%;
+  display: flex;
+}
+
+.soat-5_item {
+  margin-left: 233px;
+}
+
+.soat-6 {
+  height: 50vh;
+  background-color: #F7F7F7;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.soat-6_figma {
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=bobur%20lox%20pashsha.css.map */
